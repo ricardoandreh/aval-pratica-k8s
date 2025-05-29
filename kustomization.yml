@@ -6,4 +6,4 @@ resources:
 images:
 - name: app
   newName: ricardoandreh/aval-pratica-app
-  newTag: 7762840d721fc6656c448a252af104cb66feebf2
+  newTag: 92c291273ac4723abc87cf0d9b9a62fe0d234267
